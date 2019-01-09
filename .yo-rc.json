@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "training09",
+    "packageName": "com.training",
+    "packageFolder": "com/training",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "zh-cn",
+    "languages": [
+      "en",
+      "zh-cn"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.2",
+    "jwtSecretKey": "OWVlYmFkNGM5ZTg1YjZmNzg0YTJjODM1MTUzMTU5MzI0YzcxODg0MmUyYzRhOTdiOTQ4ZGQ3MjRiZTA5Y2UxNDVkNTI5ZTYwNWJjNDdmNzRmYjU0OTM1NTk1Yjc0ZjJkOGJmMzg0Y2YzMTc0ZWZiNWFiZTUyYzkyODc3YWM4NGQ=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "Hhtianwei",
+  "repository-name": "training09"
+}
